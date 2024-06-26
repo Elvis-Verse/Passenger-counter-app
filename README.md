@@ -1,5 +1,5 @@
 # Passenger-counter-app
-a people counter app and stores previous counts.
+a people counter app.
 
 TOOLS
 - HTML, CSS and Javascript.
